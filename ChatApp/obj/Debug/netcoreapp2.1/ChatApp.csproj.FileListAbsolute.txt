@@ -1,0 +1,4 @@
+C:\Users\dgupta\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp2.1\ChatApp.csprojAssemblyReference.cache
+C:\Users\dgupta\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp2.1\ChatApp.csproj.CoreCompileInputs.cache
+C:\Users\dgupta\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp2.1\ChatApp.AssemblyInfoInputs.cache
+C:\Users\dgupta\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp2.1\ChatApp.AssemblyInfo.cs
